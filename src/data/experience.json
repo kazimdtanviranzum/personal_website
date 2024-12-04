@@ -32,5 +32,17 @@
       "Implemented an online grading system for the department.",
       "Participated in outreach programs to encourage STEM education."
     ]
+  },
+   {
+    "position": "ADVISOR",
+    "department": "Department of Industrial Engineering & Management",
+    "institution": "Khulna University of Engineering & Technology",
+    "duration": "2012 - Present",
+    "responsibilities": [
+      "Taught advanced computer science courses such as AI and Data Structures.",
+      "Supervised 20+ Ph.D. and master's students in research projects.",
+      "Published 15+ research papers in reputed journals.",
+      "Chaired the curriculum review committee for the department."
+    ]
   }
 ]
